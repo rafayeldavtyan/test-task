@@ -14,6 +14,9 @@ module.exports = {
             fontFamily: {
                 sans: ['Nunito', ...defaultTheme.fontFamily.sans],
             },
+            lineHeight: {
+                '16': '4rem',
+            }
         },
     },
 
